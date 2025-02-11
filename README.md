@@ -13,7 +13,6 @@ I'm a intern software developer currently focusing on C# and .NET technologies. 
 - **Frameworks & Technologies:** .NET, Entity Framework
 - **Databases:** MSSQL, PostgreSQL, Redis
 - **Tools:** Docker, Github, Postman
-- **Patterns:** CQRS, Mediator
 
 ## 🚀 Projects
 
